@@ -34,4 +34,12 @@ Download the pre-built `.exe` file from the **Releases** section of this reposit
        
 3. Click the appropriate button (**Compress** or **Extract**) to perform the action.
 
+## Troubleshooting
+**Antivirus Warning:** Some antivirus programs might flag the `.exe` file as suspicious. This is a common false positive for executables created with PyInstaller. You can safely whitelist the file.
+
+## Built With
+**Python:** The core logic of the application.
+**PySimpleGUI:** For creating the graphical user interface.
+**PyInstaller:** To package the Python application into a standalone .exe.
+
 
