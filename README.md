@@ -15,7 +15,9 @@ A simple Python-based GUI application for compressing and extracting files or fo
 
 ### 1. Download the Application
 Download the pre-built `.exe` file from the **Releases** section of this repository. This is a standalone executable that does not require Python to be installed:
-- [Download File-Compressor-Extractor.exe](#) 
+-[Download File-Compressor-Extractor.exe](https://github.com/arwaabdelkarim/File-compressor-extractor/blob/main/compressor_extractor.exe)
+
+---
 
 ### 2. Run the Application
 1. Locate the downloaded `.exe` file.
