@@ -13,5 +13,4 @@ def make_archive(filepaths, destination):
 
 def extract_zip(archive_path, dest_dir):
     with zipfile.ZipFile(archive_path, 'r') as unzip:
-        unzip.extractall(
-            dest_dir)
+        unzip.extractall(dest_dir)
